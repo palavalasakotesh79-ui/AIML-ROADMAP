@@ -1236,7 +1236,7 @@ Python Project → Data Analysis Project → Classical ML Project → Deep Learn
 
 # 📄 License
 
-MIT License — Copyright (c) 2026 Dinesh. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, subject to the standard MIT terms.
+MIT License — Copyright (c) 2026 KoteshPalavalasa. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, subject to the standard MIT terms.
 
 ---
 
